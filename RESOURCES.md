@@ -1,17 +1,30 @@
-## Enlaces del Correo de Bienvenida - 5-Day Gen AI Intensive Course
+# Recursos del Curso - 5-Day Gen AI Intensive (Actualizado desde Discord)
 
-Aquí tienes los enlaces importantes mencionados en el correo:
+Aquí tienes los enlaces y recursos importantes mencionados en el canal `#5dgai-announcements` de Discord:
 
-* [YouTube livestream](https://notifications.googleapis.com/email/redirect?t=AFG8qyX8kGCpAkYZq_fd7sim8jtaRj2xP1kyH68ElLc-khhMXuIuO42isqpKD0xT6IgKS8uWxeHmmcT_xwc50w9SF7SrjVN71A_90xjarSDPHnz0SECKH-xD-TxzFdl9bpUzXRI96VvJLItWkRbHaLY-0wPEfwPTfTznZIeqPcK2wHubMVxTrASbZGKAr8jYc0lqXE2RwgK-4jLqGws_EN-SOzp7ZrbgwRMqTPi5IICGdWc2_tlp-SsmK9kgedfRZZF9_g&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9V3yE5MT89JBQC8ZAuz&s=ALHZ2r6u5fx6Nky5eTuczUjPR0P1) - Livestream diario en YouTube a las 11 AM PT / 7 PM CET / 11:30 PM IST, hosteado por Paige Bailey.
-* [Kaggle account](https://notifications.googleapis.com/email/redirect?t=AFG8qyV48DbutPzMm938-FsIH_HyJhWiox7vV8GZqatVD1jp0z1T9GFyN2Eh-ETpPbRTE0nXm5Wtymvyr5Wq3tkvU8Ecx7bZSIJkcdwALJyOs5tjAI7aEtahPQtYhmzKud2GmW_wPSSc7KDtHd8xe07Rg1Eq6wgw4CTdRFshjpTVEjClp_hFcu1SoaGgUevKyTfvnBJ05nps4f4y5OQtIhpk9CDySmBq4TP53F3pHZEcFsea1xM72xX9mAgy7eO6mbFfPA&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1QcAZ1kIZg&s=ALHZ2r4-HlTAF2Z9oQp1i2QSLLCf) - Para registrarse en una cuenta de Kaggle.
-* [learn how Notebooks work](https://notifications.googleapis.com/email/redirect?t=AFG8qyWKeCgNELt44fepO0yI3MCAvH9NzWpq1J9KtfYj5VRpoGgLYOP_gSdZ4NIfg1xo5yRRhj_f5a9wY2Rxjd4orVRPpZT_IRim9GzIae0sWF3E1aHmxsTyFBnf3zsoMsVa2WDOxNt4Rkc6vnCqLPc8CH1VlNR66gdQmwVj2RKa7uOBuW9QIbPFhtIZ8rH5pKFXJcdKd6evpWN2OQAtAaZcNblFzLr7O2bELHqWkcvlTsJnyoA8Aq1v6-ySrI_hq6kDDw&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1U_JTy7Wz8svSU3Kz88uBgAGng4S&s=ALHZ2r6g_-BUxkd4KOyP76cwcJBY) - Para aprender cómo funcionan los Notebooks de Kaggle.
-* [phone verify](https://notifications.googleapis.com/email/redirect?t=AFG8qyVHAgSfUA2x23MO_DBoWIFAsSzamFBxGFv47GeTrIlFWw25yj5NYCOzdjRQcwdKKlW8cFMXwL2L5k13jBn-vp_v9pCDZvwgiPbhphzXetz76Fvo9AisJfwksP8FiXyRGBQqovVrr12VlWgMMCk98Ecdinqwf09XWMjnYX6-yUM_QtBs7huUU0HS5wN6QiJqP_Hly5uNA-YNVAYN070ErlRdU7ZMeGkD0CHxptFHm_J0E_3vOKHrGK7HluaKBljhHw&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1S9OLSnJzEsvBgC6DwvX&s=ALHZ2r5lgLLKjSuub-nlnMcrKVTl) - Para verificar tu cuenta de Kaggle por teléfono (necesario para los codelabs).
-* [AI Studio](https://notifications.googleapis.com/email/redirect?t=AFG8qyXXl_ioyRtYHj1xh6uSXPCICEXM7OUCtrk15wgPk5Oljo3QItrq-ngTTUN2fBRWrcmbxr-dSXmWPLEVBNSkX0BM_ihXHyHQfbeMdWKuFu9D4Pghq479uYfoaAMPAEKVC7pgIuH5hXExrPJhmioSZ9bPurM4JOx67DZSxvUpEO_cNTvcCIzuW_EJ5MwiJoIL0tkd5Qi_0vvxdT1LLy4ItMm2A4iWgg39OIsvmG8m341ilfqrBnNOWFP7gorBMTU2pw&r=eJzLKCkpKLbS10_MLC4pTcnM10vPz0_PSdVLzs8FAI-4CkY&s=ALHZ2r67ft6Smn1owVo33c_bQwhM) - Para registrarse en una cuenta de AI Studio (Google).
-* [API key](https://notifications.googleapis.com/email/redirect?t=AFG8qyVvGYOOePvsGIz9GSJ2Jn6iAdTHq5crAZggRr9Fg1XdpqXe2225roh4WJGc5n51RSQQwro-KTDaEsBX2skHF0CrNb1IjY68HZ3a3PZZB_NYFvP1rN1qanswWH4yYzMvIKVKzGEqwcZlV81vGYde4aTB6HuXlkJyRyC9PRoU_iUThaZ5JIGbL83Nle7u-b83GMTYb_BJe70Ued1hE8luUGbT6M0ucfLb9lhvQrzpPUz5NT2cKXb3aOdbcgQ8qXbQCg&r=eJzLKCkpKLbS10_MLC4pTcnM10vPz0_PSdVLzs_VTywoAOLM7NRKABfvDmg&s=ALHZ2r7Cwi2fN0pjaov_4wXgLpbz) - Para generar una clave API en AI Studio.
-* [troubleshooting guide](https://notifications.googleapis.com/email/redirect?t=AFG8qyXsZYQxt8IIdi1upiSdcdAM6ARQvV66pjbWj0VyYqxgylk8jrdtuOoCGDzimE0c4X2ke5jiyV7F8SQ8ROIWJVnZyyyue25DIu_OanXsWlNsBEaisQmvLcAdwfhgdHS48z4rMWDCaihWT87RR5B8EA3OrxMTVsL_V8kU4EyYG6hvtG998JO8j4X8TBRLReu-8P3XNRHs8fj7JUU-iNX306egmf05KzMExrIu1Vec2pK8f6w14h1BVWOU69Z_aomnkg&r=eJwFwVsSgCAIAMATIX53G1JSxwcFNE63b7e633Yg7r1Dp1IGhyQTk2TGSdqbVVbGTB9EcJX3HGxVxNsqQCvDRY_hD58qGiE&s=ALHZ2r660wnCKrYMIZX-9Kd-SQ78) - Guía de solución de problemas para los codelabs.
-* [Kaggle Discord server](https://notifications.googleapis.com/email/redirect?t=AFG8qyV6wcG7Wsf8WRxRsABarpzn2aXq0PJd0I3U_89_-FueFq4hJVVaYbhSl5rdA5mNVcemHnkWTbFv3cHNn69zPYhfX4lC7PzlACztAoY_hLtMJ2abaLRnZP-EIfi1h04Rth52J24MbE2nC6qXBeWtRqgz22gfh6wsV_aRc744_tD9GW2QhTrwu4ZOBNLKJFeMcaLy4k-79ZmzJV7zxC2zOvFCBF1dTD6ZOqcLt55jlX-U1cJEsx8KE7kaCoYBL_r6pA&r=eJzLKCkpsNLXT8ksTs4vStFLT9fPTkxPz0kFAG3CCNc&s=ALHZ2r6CRzfOscqpK3JwpiXxZ-Wr) - Para unirse al servidor de Discord de Kaggle.
-* [#5dgai-announcements](https://notifications.googleapis.com/email/redirect?t=AFG8qyXQeQV6utu-eR1OTmsI5kjqST_vP9SPLdaSQ1a209n4cG8zfyUNEARsXn6Bx0AhkCJo1jUnm8aYlKI2t16ctJAAkj2XinqtPVhTLUbrUqPbJeXIZITnQ3o8dEI49Za_wEtPDi8C7wvy7WN31h9CsU4psRa6ArSka6TAw5uN-xynbQk1-YN82zRuwNU0CESKvxXHbfj4VwHf-0y41Zb_-9lo6fVDlpnnfOfHrEOQLgjb_03CghKp5YRiiy7ZMlEqEg&r=eJwFwQsKgCAQBcAbte-t-NluExoYlEbr_Wmmr_X6LtIur_NrW52P1H6Mcd4uJKhEUSvIFhMBYUDUYKkExgRmhf7jVRKX&s=ALHZ2r6rl5-meAuwsoTXgC18PX6q) - Canal de Discord para anuncios oficiales y grabaciones de livestreams.
-* [#5dgai-introductions](https://notifications.googleapis.com/email/redirect?t=AFG8qyX_GDzCKCTjs07Ky2-s-vfEc66rR2--eU2VsHa1JU-PXLICGQhx2VOe7Qw2ty01k54BWAwdr2qhO_Oy_J98icuqWa1BwofZ09fna12AUhPN8NkKGBfKFXz3QgtfwphMDaXgPS_ULANwmBBZ2RrLClvJx4OzRkPL8D5vYutZEd5hHHho72y39dT_8zZqIVWd1JmydkpnJD5D0mK5Omm3JtGe6oH-Rxh2ZHeMmP3yEer6xoFElrP1U3JYSolviQRLsA&r=eJzLKCkpKLbS10_JLE7OL0rRS0_Xj3AKCaw0T3YHAInsCXg&s=ALHZ2r4RR69XFTC3EQRkKYfpSkkh) - Canal de Discord para presentarse y conocer a otros participantes.
-* [#5dgai-question-forum](https://notifications.googleapis.com/email/redirect?t=AFG8qyXSJAyYPYk5R0zrKfU1ZwCBbG-0f-qbm0lAdaqBr6CMydWT1-Pa_na_k1um-l5zXGGPKo6t4Zk-lEHNmwdoBhYbmmtcCt8GkLTAdfo2hwtDpWUuMI2n1MjPjbdPs70ZLUeTl2eNaXndwYRyThD9pnAaXxBR8HdvHwDYszENWaK4k5tdruWNz5D4gmwjAx6mDbtmXnbQF2-EELmojY0ZAxOLYVBRPCdvLmGElVEzZPl-k9-Ik8KiJOcvaZ0ZNSduaA&r=eJwFwQEKgCAQBMAfdbt65tlvQgWD0kj_TzNtrXceIuWaeXxly-OR3M7e6z2FBB1hLhliCjsBoUcI0RQGdVD6pD_jUBKb&s=ALHZ2r5URvIpErNuZ6UcQUquxxF_) - Canal de Discord tipo foro para preguntas y discusiones sobre las tareas.
-* [#5dgai-general-chat](https://notifications.googleapis.com/email/redirect?t=AFG8qyVP_h2pkU0eNuXKCO_KdG287_G2ysonrAnATvMU-HZxmsBySSMiT2FecSBIrcidVxKRYiI4C5AySGavQPYJ2-Heppe89uNP3QlBu1YkrFi5wXVkEQVE4gzcXO4Kle7uGhc7NARwknow5M-HHzHGNOaFfkxt2PaIeX-u6MKrJ1FW75L94byj5j9dy8LNawFMTQwAUcM01JYMM87lijpCsjyuvYWoPWMllNKXaQPdvWzh-_ERfywCCyO-EZnSxgxpQw&r=eJwFwYENgCAMBMCN7D_VQt3GgAkmCkbYP97VOd-xi5Rr5P6VJfdHcj1aO-8hJBiIFDwh-mYEhApdNamRjDBX0x_jEBKb&s=ALHZ2r4YRrXJLGPSuyJECwG8eCdE) - Canal general de Discord para discutir materiales del curso y hacer networking.
-* [Kaggle Discord Confirmation](https://notifications.googleapis.com/email/redirect?t=AFG8qyXpUlZSiPA1EbQt9xgTC3CvR_ENgIfKEPhyq5yONlkC9AHl-3esEyKaF6znBRdzOkvMxiKA6tvdAQ6vgf86AzWU4R6XPm037wqLUkuoPOTqEYrpo2iLnnN567z08hSWFtm1NSiobzaaFRsMYXUAvtOGtM0vTfxH7PeAesrqmayo0MprwK8_mA7uFKdw26R1WUcmcwyipGCEEwXRIRo9hMvgCKIFvVkHXEPyJQnxfrj3B09iuztDAWP_QpYZWbtiQQ&r=eJzLKCkpKLbS189OTE_PSdVLzs_VT8ksTs4vStFPzs9LyyzKTSzJzM8DACM-DvM&s=ALHZ2r69yKUPBbZR98Ma4VSb6ikg) - Para vincular/confirmar tu cuenta de Kaggle con Discord.
+## Información General y Contenido
+
+* **Host:** Paige Bailey ([Perfil en X/Twitter](https://x.com/DynamicWebPaige?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
+* **Livestream Diario:** [Enlace a YouTube](https://www.youtube.com/@kaggle) (Lunes a viernes, 11 AM PT / 7 PM CET / 11:30 PM IST). La grabación se compartirá en Discord después.
+* **Tareas Diarias:** Se enviarán por email (whitepapers, codelabs, podcasts).
+* **Proyecto Final (Capstone):** Se lanzará el último día para obtener insignia y certificado en Kaggle.
+
+## Configuración Necesaria (Setup)
+
+* **Cuenta de Kaggle:** [Regístrate aquí](https://www.kaggle.com/)
+* **Aprender sobre Notebooks:** [Documentación de Kaggle Notebooks](https://www.kaggle.com/docs/notebooks)
+* **Verificación por Teléfono:** [Configuración de Kaggle](https://www.kaggle.com/settings) (Necesaria para los codelabs)
+* **Guía de Solución de Problemas:** [Troubleshooting and FAQs (Día 0)](https://www.kaggle.com/code/markishere/day-0-troubleshooting-and-faqs/)
+* **Cuenta de AI Studio:** [Regístrate en Google AI Studio](https://aistudio.google.com/)
+* **Generar API Key:** [Página de API Keys de AI Studio](https://aistudio.google.com/app/apikey)
+
+## Canales de Discord Dedicados
+
+* **#5dgai-introductions:** [Invítación a Discord](https://discord.gg/XBTQy7cG) - Para presentarte y conocer a otros participantes.
+* **#5dgai-question-forum:** (No se proporcionó enlace en el mensaje) - Canal tipo foro para preguntas sobre las tareas.
+* **#5dgai-general-chat:** (No se proporcionó enlace en el mensaje) - Canal general para discutir materiales y networking.
+* **Vincular Kaggle a Discord:** [Página de Confirmación](https://kaggle.com/discord/confirmation) - Necesario para postear en otros canales del Discord de Kaggle.
+
+## Primeros Pasos
+
+* Una vez configurado todo, preséntate en el canal **#5dgai-introductions** usando el enlace de invitación de arriba.
