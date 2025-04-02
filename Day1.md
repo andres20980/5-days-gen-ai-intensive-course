@@ -29,3 +29,5 @@ The first codelab will walk you through getting started with the Gemini 2.0 API 
 Happy learning and see you tomorrow!
 
 The Kaggle Team
+
+Here is the recording of today's livestream (Day 1 Assignment) for those who were unable to attend: https://www.youtube.com/live/WpIfAeCIFc0 
