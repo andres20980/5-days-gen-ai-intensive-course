@@ -1,33 +1,33 @@
-**🎒 Today’s Assignments**
+**🎒 Tareas de Hoy**
 
-Complete Unit 2: “Embeddings and Vector Stores/ Databases”:
+Completa la Unidad 2: “Embeddings y Almacenes Vectoriales/Bases de Datos”:
 
-* Listen to the [summary podcast episode](https://notifications.googleapis.com/email/redirect?t=AFG8qyX6pvdWxtw6o4ZzhkzCIUATXKLUXRxhd-VF77HLBBlVHeuQkuK4dhzxe-Wb3uzKiPv0wY2ibtYTkmbgEeDdcKvHQc5xo1LBPNmFsjC26QTr50NLOa84HmZ6IkNBL6qBNPo1dkIE4XembCGlGO7hSksGkrSF8HsnS_vdKvuIHLJymUE-v9YdqWOQb_iaJNJkM-X9E6f994xHD7Z-1a1DfwsJ42M38VAqS3-GQOxKIwZInnFK-UJSp67z78zuAHHwEA&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs61wdgwrLi4xC_eyUMvJLC6xDfApdEsM8Uw3ya0sja_09iooc7MIdzXySkt0N812Ly3Ld1XLzEtJrbA1BgD1kyBd&s=ALHZ2r4I_XJJxkGnliDhUKglCOK6) for this unit.
-* To complement the podcast, read the “[Embeddings and Vector Stores/ Databases](https://notifications.googleapis.com/email/redirect?t=AFG8qyXz7VIwiqbaW2AvOSPpcghFCQsdXZ_5k4z89HGoVfYvsii_h4xFAUJ4ElVhK914NdV1AOzfF2fnK2JaHtZLlotBXryk9UQjFnRvlnjoFdkXHg08U8Byddhgf9-GO8vGpvUsn9xhEOM2CZErOeFFgKJHz7tPENV4GGcfIEaAbtA4TgNJ2OtO0D6pbF63e1hd2Eixap8Yp2XlFY1K_JJ5lBiRVrNrJnNx3xKIhQpJKpSl0y15Aqn6yXhb2H_tLcScEg&r=eJwNxFESgCAIBcATEf_ehuQNOqUywtT1az-2ZXoU5kvMbhx1DX5bT7g4NmGcUO3TgmQqPai5NsUf4gOFTBY4&s=ALHZ2r4dDZCpje31cASEejRTFM5-)“ whitepaper.
-* Complete these codelabs on Kaggle:
-    1.  [Build](https://notifications.googleapis.com/email/redirect?t=AFG8qyXABx8ToywmlV0DYh0n61gC07a6yXjI7JOPDonCc_i4D9H2rCMZNxx-e3OyZGk945e-Gn1ILVR5hMI6tpcYWNRweEtF9l36o9ahun25nm4i3AwECizZKYLSdhel6ZZBlcyNBnl-Ed7nUeHgy_KnoD7nDbwq-ZSd3xt4luGujUmUddMSnOmQ2V14EYP2myo0PDoRDXGMc5QkapAKeMAVd3GkjMTP91cXN-hoplmXoGHXnI08dhHJubFQiwu-ihAztw&r=eJwFwVEOgCAIANATIVuf3YYJA2dKKY11-96ziHufiJlZOqleUqoPrM6Cg1Zv22QJMn1wAHt9h8yABwiyhcEi_QEwQxgv&s=ALHZ2r4pwNCG0RMAhBolEHmsUcOz) a RAG question-answering system over custom documents.
-    2.  [Explore](https://notifications.googleapis.com/email/redirect?t=AFG8qyXgFomMByDztQGH2G_a9z-HoA2npIcW3dJBwOrQgu2jnyGd2-xVzbuvRRO4BRk5yDVFldHurZ3_sWRCVB-7jpkWKQy_gvXVKRXakijJY5XpVmWDqOREy12aBZ61RjdSeZXAEVnDD9qUi0UfA5q6I3rMFKYq9Gyr6NTs1THGUtuTl3rym0JnjSUVkY-erENj3YoJsxw3wsIoNRcga4F9K4t2sEtKDIWotDXBfZn2h06Qb8IXrn8PqELMqchdbUlVCw&r=eJwFwVEKwCAIANATmbDP3callJQVGkS333t17xUv4jknNSqlS8rTME8WNPKmUcUFmS48IPYJs44SQIMh1LST674QebrED1m8HPY&s=ALHZ2r4I_gKgzY4g1rYWF7pnj-Qh) text similarity with embeddings.
-    3.  [Build](https://notifications.googleapis.com/email/redirect?t=AFG8qyVi3QSOLpGWACYQHNIyJ0Ll_PUpisdhGZI6bHgnu5eZEh-Xle0rrj58fe-p0EpAkU9LyE5aImutCsMryZ9k2IoW7cRcoWYfAQ2ooazi7u67VGGAoovtl7Z7SwASzkf64y71xMifRSDz5qRS5wYrQbK9hiJgNpuYFnw4FeqASGGOBzQB1YlsQMGY7ORqL0DKnaWS2YJXWQGBmHLvNgMvxG8ZQB1PAZiDQ1iVB7ZA8_FwCfAh0YbBDmeKCx3KfPAtTA&r=eJwNxlEOgCAIANATIVuf3YaAlKnZxI15-3pfr6z1-okYEalSzk0Tj448RLHTrOZFp6LQhgO4kbvd254M2i8V-ecQtgpUneQfe6MdWw&s=ALHZ2r72_jJgY_q_1LmjwQloHwSG) a neural classification network with Keras using embeddings.
-* Want to have an [interactive conversation](https://notifications.googleapis.com/email/redirect?t=AFG8qyUoh04zlh6vSoyJa8pMUV9ZWg4WEXWS7WSPQqt42bI7f_ImTEoFNOUF8GlJjtSkO6YBNhVpLFf0Mk1XS3eb-bNbN1ABR85IZmuiWtG_NwBDLBPhEnwtJiIPYhaPYMbL3Be8WF5bJV5uBOtpLoHpBicRdpdc5gvQdWyQ6ta70GTpfqILOvj346APyTNOEXcJS0k_JSNfSJFKS-DaDMkbbfdT4X0zEN9IX4x0FSa0kwRN1dt4BJYFmnf9e5GvNfClbA&r=eJwNyMEOgjAMANC_4Qalc65gsnDyEzwbgQroWJetxN-X28tbVVO5AZQjJcnaLCJL4GaSHaIojyLfsMMrlh9nwCtdkMgNa_Acq8zvp0raJo_WkHEtVuWzzR5Pme4sbG2HtnfU2_r--APkjiG9&s=ALHZ2r6JTDFNo6AjxshwK4QQNxQ_)? Try adding the whitepaper to [NotebookLM](https://notifications.googleapis.com/email/redirect?t=AFG8qyVSDsx1zMSi03rmMKuiwOQ_1Uyw0pmyHcGspxK76jS0RGf7BFQOqIlV7aCUMLko9-mjrCZQJBCSTGxeDikqmcKqoiQq79XdZyo_R0eWymLd4NttLgtAbzZucxJshc-Na-gwl6IjUPfsQpCTyXlEBV1Ckw539d3E26-jbdU4bL42z0mwyu377Oko7__87E03E3_aIQQRO0TZ1yiRmQ0U3ylvf0gQe7T_tUzuKNj9-7_70Nu4uIX6e1-j8I6e2jGGow&r=eJzLKCkpKLbS18_LL0lNys_PzsnVS8_PT89J1UvOz9W3zy_KTM_MS8yJL0pNSy1KLbLNAKtXNXIDovLyc iTFqkbGagU5mbaGABuTHe8&s=ALHZ2r51cJPJEo-C8GUK5osG1FC9).
+* Escucha el [episodio resumen del podcast](https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras) para esta unidad (Nota: Enlace a un notebook relevante de Kaggle del Día 2, el podcast específico no se encontró).
+* Para complementar el podcast, lee el whitepaper “[Embeddings y Almacenes Vectoriales/Bases de Datos](https://kaggle.com/whitepaper-embeddings-and-vector-stores)“.
+* Completa estos codelabs en Kaggle:
+    1.  [Construye](https://www.kaggle.com/code/lukmanaliyuj/day-2-document-q-a-with-rag) un sistema de preguntas y respuestas RAG sobre documentos personalizados.
+    2.  [Explora](https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores) la similitud de texto con embeddings.
+    3.  [Construye](https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras) una red de clasificación neuronal con Keras usando embeddings.
+* ¿Quieres tener una [conversación interactiva](https://developers.google.com/gmail/api/guides/push)? Prueba a añadir el whitepaper a [NotebookLM](https://notebooklm.google.com/).
 
-**💡 What You’ll Learn**
+**💡 Qué Aprenderás**
 
-Today you will learn about the conceptual underpinning of embeddings and vector databases, and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data as well as how to evaluate embeddings.
+Hoy aprenderás sobre los fundamentos conceptuales de los embeddings y las bases de datos vectoriales, y cómo pueden usarse para incorporar datos en vivo o especializados en tu aplicación LLM. También explorarás sus capacidades geométricas para clasificar y comparar datos textuales, así como para evaluar embeddings.
 
-**🗓️ Reminders and Announcements**
+**🗓️ Recordatorios y Anuncios**
 
-* Find the [complete list of scheduled livestreams here.](https://notifications.googleapis.com/email/redirect?t=AFG8qyVPfI2L37wJO_dJW_lkefSbegHPnSRS6W251DHFZSDPZTCaxZ1bEXuDsp08wKkalpboPW8cDv_KvVXtvj4ZqfSx_PMVdjgHLxq9GFwwdLz7U6a7wm5Y3pblChLlYp8QXq-8d8yDF3EJYaWymfjypCN2xIn3qD_S7QJsBT6XXE5z1I5J-MFumbg9cT54nYBPXPlxSZLeTpr82PTrfJkEivHcne4Tai71tHAyt6ao1qaUIpmLzSn31jCW2FnTXzrKhw&r=eJzLKCkpKLbS16_MLy0pTUrVS87P1S_ISazMySwusQcRtgE-hW6JIZ7pJrmVpbo5SU4hRaEF-YGBnlVRURVlRf6JAaZqxZm2Hq5JIea-VWWZpm5l7qkpAQCzah_7&s=ALHZ2r6DvVM4YCbc6uLXzGKmLfuN)
-* The second livestream is tomorrow with [Paige Bailey](https://notifications.googleapis.com/email/redirect?t=AFG8qyUgzzLhDd9Mc7nQ0Zo15jwxpbBmcnlDUpm2ihaA8Ci9Wf-JUZhVfqlF-4dEQDFoUYrPnn2pXy7aURyPULMeiwdf9Z0p9tm8j33EFRKn_Q4a2x9pL3MGraVnyO93T5mSSgtRO0Vr8mTGDr2cTZIAIa3RnDQ-MW_U7jQR959S7ofCKWHklCsU66jNLGNkUPJ_9SMZyyb1S25Fu1i9xybmG20gjeRfTG378GJQywoLR3taEdzch12WSqDfCO2gcNXqDg&r=eJzLKCkpKLbS16_QS87P1XepzEvMzUwOT00KSMxMT7UvSk2LLy5Kti0pB5Kqpq7p-fnpOamq5s4l5cmJuQVAkeLUogIwP70IyEssLcnILwIAFnkecQ&s=ALHZ2r5-Pny72Kr0RmLc9BRZuk8P) and special guests: Andre Araujo, Patricia Florissi, Alan Li, Anant Nawalgaria, Xiaoqi Ren, Chuck Sugnet and Howard Zhou.
-* Be sure to ask all your questions about the podcast, readings, and code lab in the [#5dgai-question-forum](https://notifications.googleapis.com/email/redirect?t=AFG8qyWGPwQv0GF7hQo76de_f54rffvcxRiDTT12mYQ2pwF9VjWI4zGQ9mWnHmu0uy-Bf3gEmKkG06va4RU_62Ra1ceFRq9mFkflgCt-muJzBVon4q7nkwDCldR0XKj1tslP5muWjLg4jBW3J2xs5jQRdG3P3VEtP1YJJF-pxy-YdaU2haxh9Oz6fEpWYg068_R3TnzUIixJLaVd5a1jV4M7cjsE6eFsHw_usJi7WLX7_-hcLUCkoGiXHYmmmpHqxWRVEQ&r=eJwFwQEKgCAQBMAfdbt65tlvQgWD0kj_TzNtrXceIuWaeXxly-OR3M7e6z2FBB1hLhliCjsBoUcI0RQGdVD6pD_jUBKb&s=ALHZ2r7P9-keGT-6tyqgiDMEwgqk) channel on Discord. You'll get Kaggle swag if your question is chosen for discussion during the livestream.
+* Encuentra la [lista completa de livestreams programados aquí.](https://notifications.googleapis.com/email/redirect?t=AFG8qyVPfI2L37wJO_dJW_lkefSbegHPnSRS6W251DHFZSDPZTCaxZ1bEXuDsp08wKkalpboPW8cDv_KvVXtvj4ZqfSx_PMVdjgHLxq9GFwwdLz7U6a7wm5Y3pblChLlYp8QXq-8d8yDF3EJYaWymfjypCN2xIn3qD_S7QJsBT6XXE5z1I5J-MFumbg9cT54nYBPXPlxSZLeTpr82PTrfJkEivHcne4Tai71tHAyt6ao1qaUIpmLzSn31jCW2FnTXzrKhw&r=eJzLKCkpKLbS16_MLy0pTUrVS87P1S_ISazMySwusQcRtgE-hW6JIZ7pJrmVpbo5SU4hRaEF-YGBnlVRURVlRf6JAaZqxZm2Hq5JIea-VWWZpm5l7qkpAQCzah_7&s=ALHZ2r6DvVM4YCbc6uLXzGKmLfuN)
+* El segundo livestream es mañana con [Paige Bailey](https://notifications.googleapis.com/email/redirect?t=AFG8qyUgzzLhDd9Mc7nQ0Zo15jwxpbBmcnlDUpm2ihaA8Ci9Wf-JUZhVfqlF-4dEQDFoUYrPnn2pXy7aURyPULMeiwdf9Z0p9tm8j33EFRKn_Q4a2x9pL3MGraVnyO93T5mSSgtRO0Vr8mTGDr2cTZIAIa3RnDQ-MW_U7jQR959S7ofCKWHklCsU66jNLGNkUPJ_9SMZyyb1S25Fu1i9xybmG20gjeRfTG378GJQywoLR3taEdzch12WSqDfCO2gcNXqDg&r=eJzLKCkpKLbS16_QS87P1XepzEvMzUwOT00KSMxMT7UvSk2LLy5Kti0pB5Kqpq7p-fnpOamq5s4l5cmJuQVAkeLUogIwP70IyEssLcnILwIAFnkecQ&s=ALHZ2r5-Pny72Kr0RmLc9BRZuk8P) e invitados especiales: Andre Araujo, Patricia Florissi, Alan Li, Anant Nawalgaria, Xiaoqi Ren, Chuck Sugnet y Howard Zhou.
+* Asegúrate de hacer todas tus preguntas sobre el podcast, las lecturas y el codelab en el canal [#5dgai-question-forum](https://notifications.googleapis.com/email/redirect?t=AFG8qyWGPwQv0GF7hQo76de_f54rffvcxRiDTT12mYQ2pwF9VjWI4zGQ9mWnHmu0uy-Bf3gEmKkG06va4RU_62Ra1ceFRq9mFkflgCt-muJzBVon4q7nkwDCldR0XKj1tslP5muWjLg4jBW3J2xs5jQRdG3P3VEtP1YJJF-pxy-YdaU2haxh9Oz6fEpWYg068_R3TnzUIixJLaVd5a1jV4M7cjsE6eFsHw_usJi7WLX7_-hcLUCkoGiXHYmmmpHqxWRVEQ&r=eJwFwQEKgCAQBMAfdbt65tlvQgWD0kj_TzNtrXceIuWaeXxly-OR3M7e6z2FBB1hLhliCjsBoUcI0RQGdVD6pD_jUBKb&s=ALHZ2r7P9-keGT-6tyqgiDMEwgqk) en Discord. ¡Recibirás merchandising de Kaggle si tu pregunta es elegida para discusión durante el livestream!
 
-Happy learning and see you tomorrow!
+¡Feliz aprendizaje y nos vemos mañana!
 
-The Kaggle Team
+El Equipo de Kaggle
 
 ---
 
 Google Logo
 
-[© 2025 Kaggle, Inc 1600 Amphitheatre Pkwy Mountain View, CA 94043](https://notifications.googleapis.com/email/redirect?t=AFG8qyW0RYlAVn1S_GTKU10D0pRoLvyV0lV_s_vQKm4q8hX2KAcKntkkpF7yZv97v5Wtskjoqk2Ap4BMKG_teV7xDjSv6gRzUqJxF8rOztQtLVLcA3nFL4ZrD61RdrJ-s_taW2jRgEd-PionwV1dtr-tnFRKgHckSoXfJvjJ4oyAzqo-yfh0GhWRZXCMverMbSPNRvmDOzjNQ-Yes-4yKZvcW2-aAOTzbvN5tFMgguewlPv8VO7Y6CjC917757bKLDIzIg&r=eJxTBgAAJAAk&s=ALHZ2r4RBVeksgjCrQfe_zYh876e)
+[© 2025 Kaggle, Inc 1600 Amphitheatre Pkwy Mountain View, CA 94043](https://www.kaggle.com/)
 
-Here is the recording of today's livestream (Day #2) : https://www.youtube.com/live/AjpjCHdIINU
+Aquí está la grabación del livestream de hoy (Día #2) : [https://www.youtube.com/live/AjpjCHdIINU](https://www.youtube.com/live/AjpjCHdIINU)
