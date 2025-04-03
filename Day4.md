@@ -1,0 +1,38 @@
+# Kaggle - Tareas del Día 4 Gen AI Intensive
+
+Hola Andrés,
+
+**🎓 Tareas de Hoy**
+
+Completa la Unidad 4 - “LLMs Específicos de Dominio”:
+
+* Escucha el [episodio resumen del podcast](https://notifications.googleapis.com/email/redirect?t=AFG8qyWD5GhR_CUWf_JgaWa9d5a1HebR5q5WZ9QHXiboEF9WY3b6bmlXXguXyxTOVJTgJyNsZ_6Dx1o2DIVP_eCnOJYmxHneYaXVC23Ux1Rw06Gs4zuOomVejRRF1uLkLzI7Tlu24_geJXI_WXknSmZwSANpQ6jGYOfcGF-VSt-Y2HhZqmp2dismPucHPLlYyfA62Nl390aj5IYABgCDrmt2RogxQWKA-opeBwqI70NGh822BhPe3WueohYHVEobDnSTOQ&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs_UNLywuKAsr86tyVMvJLC6xDfApdEsM8Uw3ya0sja_09iooc7MIdzXySkt0N812Ly3Ld1XLzEtJrbA1AwARYSDo&s=ALHZ2r6JPnxBfZMfDuB2sQBvG2ox) para esta unidad.
+* Para complementar el podcast, lee el whitepaper “[Resolviendo Problemas Específicos de Dominio Usando LLMs](https://notifications.googleapis.com/email/redirect?t=AFG8qyX9UwF-i4apjQg8376O7fjsGkbK-1Vcbyz24KrSgCP_xgzrzUELJuR8f-0iuZE-cEdbanSV6e5HrhtRBcZgFIaJUR1GHq7y6QJmS7EJAyDFQB1_5piIooZ99O5CJzIukJAmVE6UELatykK3hXqUAb81npXMFRdLwkJytLs5jTC2dlbKpKKqxH_TrVQcriILbSCDypb8ofAO2lkJ-0u2AhgLLDmeXeWTJTFiY7iXVgfoBIyb1hXCTFquZhvi4zadrA&r=eJwVyUESgCAIAMAXofd-Y0rKBMKIxfeb9rpjb_Mj54hId-mdMVWVHIM2WjFc4MovzQ5NpdB0cMNKF1WwpSejODz-P7P4B5r-HiI&s=ALHZ2r5rLssrOfJ0NdCrdkYa9CEJ)”.
+* Completa estos codelabs en Kaggle:
+    * [Ajusta](https://notifications.googleapis.com/email/redirect?t=AFG8qyUxF8oRBNqwrCKkyyPcQ0u-6Uo6aJx1tflYWkTVmM7mSyvZVPDWZ6K058Ky8yGUvB71D2lycccyOXw4-byaMjEmki7dd3cIvZ1Pyq8RPc1HjUva2mjpNhvFpUPtoTto9p-g43DpwQCBAM3jSSAXGcONu2aeFY4Vzc7KUaCOQL0G0Tv187Q7xZ6z7TTbryOLO6EyKUiSoFCVuXFcIFFXgFznuISKLW878FoRe2pllr-SsUN6ChkAwi8vMAJXP0vnTQ&r=eJwNyjEOwCAIAMAXIUun_oYoVaOAUYzp79ubr7iPdSOec0KjnDuHaILREqPQbHUVnoyJXrjgqcrgW6tmIIh7uQnIX_sHr-8aTg&s=ALHZ2r6HZkI-z101kv6ZvGClq2eY) un modelo Gemini para una tarea personalizada.
+    * [Usa](https://notifications.googleapis.com/email/redirect?t=AFG8qyUBpKeqUbhCDR2wk452jGwc62iUOP3P58oQDYdULMkk_V-UB2doeM1YlcdWbPX2mJfDsGdsZ3FbsBRpXai-Wklw3qzqzpN5P4x7nffSNAh9_EQn6yKmv06ndm-wWeoYLOThc7mT8i7eM2q4_CsdJkiulN-l8GpP-cmyd1wzgfl4XhxLBWPYlqa9YIyycg8t44YXDUJ1fWue5vooGuvEXDI9xmdke_lvL5JJt74XR2IxCU-QNSoqTtZBimt8TzvgKw&r=eJwNyjEOwCAIAMAXIUun_oYIQWOVBmxIf9_efG3vO07EzCyDVC8p1SZWY8FJPno0cUGmFw5Qsz9ACHltoG7P4r70A2UuGXA&s=ALHZ2r5pMIywCCUZjP5Ddzy5Gkg4) datos de Google Search en la generación.
+* ¿Quieres tener una [conversación interactiva](https://notifications.googleapis.com/email/redirect?t=AFG8qyVgmG2ICudPHkQyu46fkJImzZWlSWIRiBWiBvXm5qVuTMvMtcRpIKVyZEVriY2gPX05qXP0u9nzc7CNPPVUZhGGd6GZ2Jnk0kJaqHPWJu1OOAJQGJGTNB4UtK9heQgkT1kFpPgmzL6O_s9YFiI7l-cu863Do8MciguRVAAcAKrDET8oKk4G3XFeVi55vX3H65D6H7rCOf8vSPmHLW6wkpZu79Be7HDDTNgmpXbGe6ik2eczsZdW43tisbnDaT1b_g&r=eJwNyMEOgjAMANC_4Qalc65gsnDyEzwbgQroWJetxN-X28tbVVO5AZQjJcnaLCJL4GaSHaIojyLfsMMrlh9nwCtdkMgNa_Acq8zvp0raJo_WkHEtVuWzzR5Pme4sbG2HtnfU2_r--APkjiG9&s=ALHZ2r6w_sNcyfRhK56Y12W7xSbS)? Prueba a añadir el whitepaper a [NotebookLM](https://notifications.googleapis.com/email/redirect?t=AFG8qyWuKjjTfp_M7WUSdUqU7oTiNkBAt3D0-v3TwsfGOCk7pQET4Sr0ZPocPQJRRmu8nwwjLgAH-pF_5SH5jFyLJ-pCPpgLd7ntVfA8Jn7nDgl34iw79a7fAqnr9JLEKRUl2PiBbJiM5kDP3pbRiFsVkH9siuKNg699p_kYnWuTQ8lm24BkaVQJh2nyrKvhTTJQbd8BGzpIr2Jr4Z5Aa3vhfabaIu6z6dlqbLLaJ6CIbhrE7cirmCvlPPMq3hUgzMZDEg&r=eJzLKCkpKLbS18_LL0lNys_PzsnVS8_PT89J1UvOz9W3zy_KTM_MS8yJL0pNSy1KLbLNAKtXNXIDovLyc_TFqkbGagU5mbaGABuTHe8&s=ALHZ2r4ZgjUxLouEW1FhGKRZGq9w).
+
+**💡 Qué Aprenderás**
+
+En la lectura de hoy, profundizarás en la creación y aplicación de LLMs especializados como SecLM y MedLM/Med-PaLM, con información de los investigadores que los construyeron.
+
+En los codelabs, aprenderás cómo añadir datos del mundo real a un modelo usando Google Search y luego visualizarlos con herramientas de trazado a través de la API Live. También aprenderás a ajustar un modelo Gemini personalizado usando tus propios datos etiquetados para resolver tareas personalizadas.
+
+**🗓️ Recordatorios y Anuncios:**
+
+* Encuentra la [lista completa de livestreams programados y grabaciones pasadas aquí](https://notifications.googleapis.com/email/redirect?t=AFG8qyU6HzMALgJXBWa-pFiah889Vie-EZ4Ga1wXWj1cwdW-isSCmj57UlRzk0znAEd5g4tDXYajmHLFLHq8j7gE9LBjatqwKcO_01nBeWX5bBbbReGSFEmEadE9fRmlLOg18OgA0tD2eMgwuM6PyK922L1lLyj2nucyXebaa6L6-q7BN_VZohGokmJHidBdqfGnwbNNw7Npz7-eAfTm8Nrl_UhAiqY70jpoU7vc7_yDbOgPFfLhWjHKscDXc3OpP1FxiQ&r=eJzLKCkpKLbS16_MLy0pTUrVS87P1S_ISazMySwusQcRtgE-hW6JIZ7pJrmVpbo5SU4hRaEF-YGBnlVRURVlRf6JAaZqxZm2Hq5JIea-VWWZpm5l7qkpAQCzah_7&s=ALHZ2r5HyCMp-Qy0gneOxsLbVcH1).
+* El próximo livestream con [Paige Bailey](https://notifications.googleapis.com/email/redirect?t=AFG8qyXcHY-phYWmQphAPtGc_7O0j2X9fJ_HBApOCixzbl69wk2ezEEcEWnbZCQdfrbSSB1SdDClEoZ4yfpF9JnFmNSllCa2wfIsSsetJ3gA19qS57OiSRSJHtV6J2NORyTp9HUdrVuw2So4TIOLBu3oapXas0BLc9b1Pg3vwqEqHJqblVvYlm6QuNOUvyMubHQ2EWMIjYRN__tL8JTMm0Kolkgmhqk8xC5MZ_A3W86W9db2A6PdRjajNtVjj2sKb4ES8w&r=eJzLKCkpKLbS16_QS87P1XepzEvMzUwOT00KSMxMT7UvSk2LLy5Kti0pB5Kqpq7p-fnpOamq5s4l5cmJuQVAkeLUogIwP70IyEssLcnILwIAFnkecQ&s=ALHZ2r4DNQiepR-SiUSjLnky_MM2) es mañana a las 11 AM PT / 7 PM CET / 11:30 PM IST. [¡Haz clic aquí para unirte!](https://notifications.googleapis.com/email/redirect?t=AFG8qyU1axiP5njPWkjb8gNJ9yiC5WhsP7nhBvQk1S_Pg8gqXAyW1oqayVZ6X35aZ-w_uBlEA2RgbnjplqETPxBfSPGhbzRpgs56VFPnZ2vByurh7BrX5DUZigASjZvE0EYAsFLT-LuONifrdLhixP5tg8L2yeEFCqxvp1iDt7sPoFmh2YTeo4slRU8EyFgeVdf1P6wOp7jm5UW27Ji0w9g_ayhWlN1X68X3FPolmH64D48QHpYnha4qXSqIMz4koQLzyw&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9XPySxL1Xf0Myop8Mg0MvN3BQAyiQ45&s=ALHZ2r7D4PbhrD3_kSgkPGc8ytAc) Invitados del livestream: Donny Cheung, Scott Coull, Ewa Dominowska, Chris Grier, Anant Nawalgaria y Karthik Raman.
+* Asegúrate de hacer todas tus preguntas sobre el podcast, las lecturas y los codelabs en el canal [#5dgai-question-forum](https://notifications.googleapis.com/email/redirect?t=AFG8qyV4AHZjq9bQ0mLgKZR24llTXEPfts-1s53hwUaeGuAFaEdTZ2YiA4esPrPsgcmFJ_DiqD07TK7AOCE0dfjQMrjROQrywIWgDWY_zs7UilwprUXtbJC_nxKTKSzBuh8bKMGimIfibt_AMOPanFJJy9IgoyMmSH8QDiLwcDcv2LY6-hEAWTrPKa8s91WKxwdUlbxIgwxXyY8yaGTlH_T3Q5hBq1gZNZfO_wHs8RnAmWZRRx2uAkYwXSSP_eYEzcYChQ&r=eJwFwQEKgCAQBMAfdbt65tlvQgWD0kj_TzNtrXceIuWaeXxly-OR3M7e6z2FBB1hLhliCjsBoUcI0RQGdVD6pD_jUBKb&s=ALHZ2r4hYTaDXnQD_Upa3BFTYUsD) en Discord. Obtendrás merchandising de Kaggle si tu pregunta es elegida para la discusión durante el livestream.
+
+¡Feliz aprendizaje y nos vemos mañana!
+
+El Equipo de Kaggle
+
+---
+
+[![Kaggle Logo](https://storage.googleapis.com/kaggle-media/Images/kaggle_site_logo.png)](https://kaggle.com)
+
+[© 2025 Kaggle, Inc 1600 Amphitheatre Pkwy Mountain View, CA 94043](https://notifications.googleapis.com/email/redirect?t=AFG8qyUM-x9R4hNc8I_f42NMs5JCkgGKp5FAw7akcdpdpROE78XQjc0sH2m0dxRheDPNZR-d7bYaz0rkJ4O_GvaAg7vMRlOuQjUN4stp7wLPrsuXqW25u4FmgnA3CYgrFesE6zTHIB0c-TdeTCptiK50DoGUdlF3uNntWFH5LhjkF5AXVB3seKXzomF5hB1MjbSH_eRoldLoHJ5gVkp-KEpO_glmPT3aGLo18y7YOfSQ6_eqmr1BgZjAiLoyjK8XeRZ7A&r=eJxTBgAAJAAk&s=ALHZ2r76f7UyoIZVrcTbmGi1hpgM)
+
+Este correo ha sido enviado a andres.20980@gmail.com. Si ya no deseas recibir correos sobre este evento, por favor [cancela tu suscripción aquí](https://notifications.googleapis.com/email/redirect?t=AFG8qyWrpunarQdt3JWl8g9GB7pBNUtkRHYx2nvjGUMtOwjbx4vaYS5UrWV_2qUdWr-FtvsmVMCvuePGyOri9c7-nq_YG26ynCZgWKll5de-wotZlKl2o4cLqYdpgxbfd1swFF4F2u3zsXLX0rLo0nC4ala317bu562hchIbP1e7n7mXojuDXLEmJYMLHIOqzDIw-oO3sYlHssu5TLdh4tjbOc2P9q0wqV3h2lr5O3-cA_3IPO_bKHDXYHF6CYOqvzlzlA&r=eJwVykkOgzAMBdDbsAQnOIFUqrruMezkM0hMIoFev-1bv6mUIz-a5sz3UX_mMo37Pi6o474215YvzfGcFS-sMi_v9GTPVjoKLRuwDm3fCrrBMYuVQIQKN7byi6n3FjK4EJE4wQZlZ3005LtI7pqvJD_EQnq4VRYiJVIxAUVRyzemOjwBUveM40&s=ALHZ2r4HlJe6HINwbwvnU8x0KzH7).
