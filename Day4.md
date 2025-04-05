@@ -1,7 +1,5 @@
 # Kaggle - Tareas del Día 4 Gen AI Intensive
 
-Hola Andrés,
-
 **🎓 Tareas de Hoy**
 
 Completa la Unidad 4 - “LLMs Específicos de Dominio”:
@@ -35,4 +33,5 @@ El Equipo de Kaggle
 
 [© 2025 Kaggle, Inc 1600 Amphitheatre Pkwy Mountain View, CA 94043](https://notifications.googleapis.com/email/redirect?t=AFG8qyUM-x9R4hNc8I_f42NMs5JCkgGKp5FAw7akcdpdpROE78XQjc0sH2m0dxRheDPNZR-d7bYaz0rkJ4O_GvaAg7vMRlOuQjUN4stp7wLPrsuXqW25u4FmgnA3CYgrFesE6zTHIB0c-TdeTCptiK50DoGUdlF3uNntWFH5LhjkF5AXVB3seKXzomF5hB1MjbSH_eRoldLoHJ5gVkp-KEpO_glmPT3aGLo18y7YOfSQ6_eqmr1BgZjAiLoyjK8XeRZ7A&r=eJxTBgAAJAAk&s=ALHZ2r76f7UyoIZVrcTbmGi1hpgM)
 
-Este correo ha sido enviado a andres.20980@gmail.com. Si ya no deseas recibir correos sobre este evento, por favor [cancela tu suscripción aquí](https://notifications.googleapis.com/email/redirect?t=AFG8qyWrpunarQdt3JWl8g9GB7pBNUtkRHYx2nvjGUMtOwjbx4vaYS5UrWV_2qUdWr-FtvsmVMCvuePGyOri9c7-nq_YG26ynCZgWKll5de-wotZlKl2o4cLqYdpgxbfd1swFF4F2u3zsXLX0rLo0nC4ala317bu562hchIbP1e7n7mXojuDXLEmJYMLHIOqzDIw-oO3sYlHssu5TLdh4tjbOc2P9q0wqV3h2lr5O3-cA_3IPO_bKHDXYHF6CYOqvzlzlA&r=eJwVykkOgzAMBdDbsAQnOIFUqrruMezkM0hMIoFev-1bv6mUIz-a5sz3UX_mMo37Pi6o474215YvzfGcFS-sMi_v9GTPVjoKLRuwDm3fCrrBMYuVQIQKN7byi6n3FjK4EJE4wQZlZ3005LtI7pqvJD_EQnq4VRYiJVIxAUVRyzemOjwBUveM40&s=ALHZ2r4HlJe6HINwbwvnU8x0KzH7).
+
+Aquí está la grabación del livestream de hoy (Día #4) : [https://www.youtube.com/live/AN2tpHi26OE](https://www.youtube.com/live/AN2tpHi26OE)

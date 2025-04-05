@@ -41,3 +41,5 @@
 - [Repositorio agent-starter-pack](https://goo.gle/agent-starter-pack)
 - [NotebookLM - Pruébalo aquí](https://notebooklm.google.com/)
 - [Canal de YouTube de Kaggle](https://www.youtube.com/c/kaggle/live)
+
+Aquí está la grabación del livestream de hoy (Día #5) : [https://www.youtube.com/live/eZ-8UQ_t4YM](https://www.youtube.com/live/eZ-8UQ_t4YM)

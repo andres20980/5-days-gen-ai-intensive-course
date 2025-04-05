@@ -35,3 +35,4 @@ Google Logo
 [© 2025 Kaggle, Inc 1600 Amphitheatre Pkwy Mountain View, CA 94043](https://www.kaggle.com/)
 
 ---
+Aquí está la grabación del livestream de hoy (Día #3) : [https://www.youtube.com/live/g6MVIEzFTjY](https://www.youtube.com/live/g6MVIEzFTjY)
