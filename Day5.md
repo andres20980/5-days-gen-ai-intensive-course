@@ -3,8 +3,8 @@
 ## 🎒 Tareas de Hoy
 
 1. **Completar la Unidad 5 - “MLOps para Generative AI”**
-   - 🎧 Escucha el episodio resumen del podcast para esta unidad.
-   - 📄 Lee el whitepaper: [MLOps for Generative AI](https://cloud.google.com/vertex-ai/docs/generative-ai/agentops/mlops-for-genai)
+   - 🎧 Escucha el episodio resumen del [podcast](https://www.youtube.com/watch?v=Hbk8UXavHrk) para esta unidad.
+   - 📄 Lee el whitepaper: [MLOps for Generative AI](https://github.com/andres20980/5-days-gen-ai-intensive-course/blob/master/docs/22365_14_Operationalizing%20Generative%20AI%20on%20Vertex%20AI_v7.pdf)
 
 > 🧠 *No hay codelab hoy.* En su lugar, revisaremos un walkthrough en vivo del repositorio `agent-starter-pack`.
 
